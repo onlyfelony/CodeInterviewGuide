@@ -2,7 +2,7 @@ package chapter2_LinkedList;
 /*
  * 环形单链表的约瑟夫问题：
  *    链表有n个结点，每次报到m的结点就删除
- *    进阶:要求时间复杂度O(n)
+ *    进阶:要求时间复杂度O(n) ☆☆☆
  */
 public class P6_joseKill {
 	
