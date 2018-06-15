@@ -1,6 +1,6 @@
 package chapter2_LinkedList;
 /**
- * 在单链表中删除指定值的节点
+ * 在单链表中删除指定值的节点☆
  */
 public class P14_DeleteNum {
 	
